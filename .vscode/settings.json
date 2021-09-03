@@ -1,6 +1,8 @@
 {
   "files.exclude": {
     "node_modules": true,
+    "reserved": true,
+    "db.sql": true,
     "package-lock.json": true,
     ".gitignore": true,
     ".env": true,
